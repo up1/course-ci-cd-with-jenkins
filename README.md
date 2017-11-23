@@ -22,6 +22,8 @@
 * Working with Testing such as Unit testing  with JUnit
 * Working with Functional/UI testing with Selenium
 * Working with Code coverage
+  * [Cobertura](http://cobertura.github.io/cobertura/)
+  * [Jacoco](http://www.eclemma.org/jacoco/)
 * Introduction to Jenkins pipeline (Pipeline as a Code)
   * Why we need it ?
   * Quick demo and workshop
