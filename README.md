@@ -50,3 +50,4 @@
 
 * [Jenkins Official](https://jenkins.io)
 * [Jenkins with Docker](https://github.com/jenkinsci/docker/blob/master/README.md)
+* [JFrog Artifactory with Docker](https://www.jfrog.com/confluence/display/RTF/Installing+with+Docker)
