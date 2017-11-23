@@ -45,9 +45,17 @@
 * NodeJS application
 * Jenkins Pipeline
 
+### Code Examples
+
+* [Basic of Java application with Apache Maven](https://github.com/up1/maven_java_web_example)
+* [Java application + Apache Maven + JUnit + Code coverage](https://github.com/up1/workshop-java-web-tdd/)
+* NodeJS + React application
+
 
 ### Resources
 
 * [Jenkins Official](https://jenkins.io)
 * [Jenkins with Docker](https://github.com/jenkinsci/docker/blob/master/README.md)
 * [JFrog Artifactory with Docker](https://www.jfrog.com/confluence/display/RTF/Installing+with+Docker)
+* [Jenkins Pipeline Examples](https://github.com/jenkinsci/pipeline-examples)
+* [Jenkins Pipeline with Node](https://jenkins.io/doc/tutorials/building-a-node-js-and-react-app-with-npm/)
