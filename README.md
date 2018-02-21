@@ -46,6 +46,7 @@
   * Functional/UI testing with Selenium
 * NodeJS application
 * Jenkins Pipeline
+* Selenium Grid
 
 ### Code Examples
 
