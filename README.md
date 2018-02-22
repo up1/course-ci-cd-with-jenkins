@@ -34,6 +34,9 @@
 * Working with NodeJS application
 * Scaling Jenkins with Master and Slave architecture
 
+### Software Requirements
+* List of softwares
+
 ### Workshops
 
 * Java Web application
