@@ -35,7 +35,7 @@
 * Scaling Jenkins with Master and Slave architecture
 
 ### Software Requirements
-* List of softwares
+* [List of softwares](https://github.com/up1/course-ci-cd-with-jenkins/wiki/Softwares)
 
 ### Workshops
 
