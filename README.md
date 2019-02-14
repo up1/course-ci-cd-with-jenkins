@@ -47,7 +47,6 @@
   * Keep WAR file in JFrog Artifactory
   * Deploy in Apache Tomcat (Native and Docker Image)
   * Functional/UI testing with Selenium
-* NodeJS application
 * Jenkins Pipeline
 * Selenium Grid
 
