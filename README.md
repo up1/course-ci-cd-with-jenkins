@@ -38,7 +38,6 @@
 * [List of softwares](https://github.com/up1/course-ci-cd-with-jenkins/wiki/Softwares)
 
 ### Workshops
-
 * Java Web application
   * JDK 1.8
   * Apache Maven
@@ -51,7 +50,6 @@
 * Selenium Grid
 
 ### Code Examples
-
 * [Basic of Java application with Apache Maven](https://github.com/up1/maven_java_web_example)
 * [Java application + Apache Maven + JUnit + Code coverage](https://github.com/up1/workshop-java-web-tdd/)
 * [NodeJS](https://github.com/up1/workshop-tdd-api-with-nodejs)
@@ -59,7 +57,6 @@
 
 
 ### Resources
-
 * [Jenkins Official](https://jenkins.io)
 * [Jenkins with Docker](https://github.com/jenkinsci/docker/blob/master/README.md)
 * [JFrog Artifactory with Docker](https://www.jfrog.com/confluence/display/RTF/Installing+with+Docker)
