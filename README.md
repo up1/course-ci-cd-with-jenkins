@@ -50,11 +50,11 @@
 * [Selenium Grid](https://github.com/up1/course-ci-cd-with-jenkins/blob/master/slide/SCK-SELENIUM-GRID.pdf)
 
 ### Code Examples
-* [Basic of Java application with Apache Maven](https://github.com/up1/maven_java_web_example)
 * [Java application + Apache Maven + JUnit + Code coverage](https://github.com/up1/workshop-java-web-tdd/)
 * [.Net core + PostgreSQL](https://github.com/up1/workshop-testing)
 * [NodeJS](https://github.com/up1/workshop-tdd-api-with-nodejs)
 * [PHP](https://github.com/up1/demo-php-ci)
+* [Basic of Java application with Apache Maven](https://github.com/up1/maven_java_web_example)
 
 
 ### Resources
