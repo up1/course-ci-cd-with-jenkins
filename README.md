@@ -47,7 +47,7 @@
   * Deploy in Apache Tomcat (Native and Docker Image)
   * Functional/UI testing with Selenium
 * Jenkins Pipeline
-* Selenium Grid
+* [Selenium Grid](https://github.com/up1/course-ci-cd-with-jenkins/blob/master/slide/SCK-SELENIUM-GRID.pdf)
 
 ### Code Examples
 * [Basic of Java application with Apache Maven](https://github.com/up1/maven_java_web_example)
