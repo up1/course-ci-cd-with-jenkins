@@ -6,6 +6,7 @@
 * Introduction to Continuous Integration (CI)
 * Introduction to Continuous Delivery (CD)
 * 10 practices of CI
+* Design your pipeline/development and deployment process
 * Working with Jenkins
   * Installation
   * Basic of configuration
