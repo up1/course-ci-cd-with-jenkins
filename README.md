@@ -57,7 +57,6 @@
 * [PHP](https://github.com/up1/demo-php-ci)
 * [Basic of Java application with Apache Maven](https://github.com/up1/maven_java_web_example)
 
-
 ### Resources
 * [Jenkins Official](https://jenkins.io)
 * [Jenkins with Docker](https://github.com/jenkinsci/docker/blob/master/README.md)
