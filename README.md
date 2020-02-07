@@ -7,6 +7,12 @@
 * Introduction to Continuous Delivery (CD)
 * 10 practices of CI
 * Design your pipeline/development and deployment process
+* Testing [From Microservices Testing](https://martinfowler.com/articles/microservice-testing/)
+  * Unit testing
+  * Integration testing
+  * Component testing
+  * Contract testing
+  * End-toEnd testing
 * Working with Jenkins
   * Installation
   * Basic of configuration
@@ -63,3 +69,11 @@
 * [JFrog Artifactory with Docker](https://www.jfrog.com/confluence/display/RTF/Installing+with+Docker)
 * [Jenkins Pipeline Examples](https://github.com/jenkinsci/pipeline-examples)
 * [Jenkins Pipeline with Node](https://jenkins.io/doc/tutorials/building-a-node-js-and-react-app-with-npm/)
+* Mock API server
+  * [Stubby4j](https://github.com/azagniotov/stubby4j)
+  * [WireMock](http://wiremock.org/)
+  * [JSON Server](https://github.com/typicode/json-server)
+  * [Mouted Bank Test](http://www.mbtest.org/)
+* Testing framework
+  * [Cypress](https://www.cypress.io/)
+  * [Contract testing with PACT](https://docs.pact.io/)
