@@ -5,7 +5,7 @@
 #### Day 1
 * Introduction to Continuous Integration (CI)
 * Introduction to Continuous Delivery (CD)
-* 10 practices of CI
+* 10 practices of CI concept
 * Design your pipeline/development and deployment process
 * Testing [From Microservices Testing](https://martinfowler.com/articles/microservice-testing/)
   * Unit testing
