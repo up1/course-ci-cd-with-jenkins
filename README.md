@@ -58,6 +58,7 @@
 
 ### Code Examples
 * [Java application + Apache Maven + JUnit + Code coverage](https://github.com/up1/workshop-java-web-tdd/)
+* [Spring Boot and PostgreSQL](https://github.com/up1/demo-spring-boot-cicd)
 * [.Net core + PostgreSQL](https://github.com/up1/workshop-testing)
 * [NodeJs with Jest](https://github.com/up1/workshop-tdd-nodejs-20201018)
 * [NodeJS](https://github.com/up1/workshop-tdd-api-with-nodejs)
