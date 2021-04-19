@@ -45,6 +45,7 @@
 * [List of softwares](https://github.com/up1/course-ci-cd-with-jenkins/wiki/Softwares)
 
 ### Workshops
+* [Hello with NodeJS](https://github.com/up1/workshop-nodejs-ci-cd)
 * Java Web application
   * JDK 1.8
   * Apache Maven
