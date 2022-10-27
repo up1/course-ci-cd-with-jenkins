@@ -1,5 +1,7 @@
 # Course :: CI/CD with Jenkins
 
+* [Miro board](https://miro.com/app/board/uXjVPJ8lwKY=/)
+
 ## Topics
 
 #### Day 1
