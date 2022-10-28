@@ -1,6 +1,7 @@
 # Course :: CI/CD with Jenkins
 
 * [Miro board](https://miro.com/app/board/uXjVPJ8lwKY=/)
+* [Workshop CI/CD with Jenkins and Pipeline](https://github.com/up1/workshop-ci-cd-with-jenkins)
 
 ## Topics
 
@@ -61,6 +62,7 @@
 
 ### Code Examples
 * [Java application + Apache Maven + JUnit + Code coverage](https://github.com/up1/workshop-java-web-tdd/)
+* [.NET 6 + ReactJS](https://github.com/up1/workshop-dotnet-react)
 * [Spring Boot and PostgreSQL](https://github.com/up1/demo-spring-boot-cicd)
 * [.Net core + PostgreSQL](https://github.com/up1/workshop-testing)
 * [NodeJs with Jest](https://github.com/up1/workshop-tdd-nodejs-20201018)
