@@ -1,8 +1,5 @@
 # Course :: CI/CD with Jenkins
-* [Workshop CI/CD with Jenkins and Pipeline](https://github.com/up1/workshop-ci-cd-with-jenkins)
-
 ## Topics
-
 #### Day 1
 * Introduction to Continuous Integration (CI)
 * Introduction to Continuous Delivery (CD)
@@ -46,6 +43,11 @@
 * [List of softwares](https://github.com/up1/course-ci-cd-with-jenkins/wiki/Softwares)
 
 ### Workshops
+* [Workshop CI CD](https://github.com/up1/workshop-ci-jenkins-docker)
+  * Frontend testing
+  * Backend testing
+  * Docker
+* [Workshop CI/CD with Jenkins and Pipeline](https://github.com/up1/workshop-ci-cd-with-jenkins)
 * [Hello with NodeJS](https://github.com/up1/workshop-nodejs-ci-cd)
 * Java Web application
   * JDK 1.8
