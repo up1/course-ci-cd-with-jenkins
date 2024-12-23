@@ -1,4 +1,4 @@
-# Course :: CI/CD with Jenkins 2023
+# Course :: CI/CD with Jenkins
 
 * [Miro board 2023](https://miro.com/app/board/uXjVPtfZ0MA=/)
 * [Workshop CI/CD with Jenkins and Pipeline](https://github.com/up1/workshop-ci-cd-with-jenkins)
