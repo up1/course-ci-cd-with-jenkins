@@ -43,6 +43,10 @@
 * [List of softwares](https://github.com/up1/course-ci-cd-with-jenkins/wiki/Softwares)
 
 ### Workshops
+* [Workshop JS Stack](https://github.com/up1/workshop-testing-with-js-stack)
+  * VueJS
+  * NodeJS
+  * MS SQL Server  
 * [Workshop CI CD](https://github.com/up1/workshop-ci-jenkins-docker)
   * Frontend testing
   * Backend testing
