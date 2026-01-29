@@ -1,5 +1,5 @@
 # Course :: CI/CD with Jenkins
-## Topics
+
 #### Day 1
 * Introduction to Continuous Integration (CI)
 * Introduction to Continuous Delivery (CD)
